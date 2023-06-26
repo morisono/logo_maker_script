@@ -5,7 +5,7 @@
 ## Usage
 
 ```fish
-fish run.sh
+fish run.fish
 ```
 
 ## Dependencies
